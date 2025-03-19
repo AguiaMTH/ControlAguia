@@ -62,7 +62,7 @@ set_grid_size(18,8)
 set_panel_notes(-,,,)
 
 select_panel(5)
-set_grid_size(17,10)
+set_grid_size(19,8)
 add_text(0,0,xlarge,L,CALIBRAR CORRENTE BATERIA QUANDO DIVERGIR VALOR REAL,245,240,245,)
 add_text(1,1,medium,L,para AJUSTAR a corrente da bateria não pode estar carregando/descarregando   OU   use um alicate de corrente DC de precisão,245,240,245,)
 add_text(1,2,medium,L,✓ AJUSTE SEM  ALICATE: Carregue com painel solar; quando voltar p/ 13.6 V e espere 20 minutos; clique nos botões até zerar,245,240,245,)
