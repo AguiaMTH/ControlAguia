@@ -73,7 +73,6 @@ add_button(4,4,2,*Si,)
 add_button(4,5,3,*Sd,)
 add_text(9,4,xlarge,R,1,255,160,0,b)
 add_text(10,4,xlarge,L,A,255,160,0,)
-add_text(9,4,xlarge,R,1,255,160,0,b)
 add_led(12,4,1,l,0,255,0)
 set_panel_notes(SETUP AmpBat,,,)
 
